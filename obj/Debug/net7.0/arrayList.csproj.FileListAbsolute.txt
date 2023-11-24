@@ -1,0 +1,14 @@
+C:\Users\beyza\Desktop\C#\arrayList\bin\Debug\net7.0\arrayList.exe
+C:\Users\beyza\Desktop\C#\arrayList\bin\Debug\net7.0\arrayList.deps.json
+C:\Users\beyza\Desktop\C#\arrayList\bin\Debug\net7.0\arrayList.runtimeconfig.json
+C:\Users\beyza\Desktop\C#\arrayList\bin\Debug\net7.0\arrayList.dll
+C:\Users\beyza\Desktop\C#\arrayList\bin\Debug\net7.0\arrayList.pdb
+C:\Users\beyza\Desktop\C#\arrayList\obj\Debug\net7.0\arrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beyza\Desktop\C#\arrayList\obj\Debug\net7.0\arrayList.AssemblyInfoInputs.cache
+C:\Users\beyza\Desktop\C#\arrayList\obj\Debug\net7.0\arrayList.AssemblyInfo.cs
+C:\Users\beyza\Desktop\C#\arrayList\obj\Debug\net7.0\arrayList.csproj.CoreCompileInputs.cache
+C:\Users\beyza\Desktop\C#\arrayList\obj\Debug\net7.0\arrayList.dll
+C:\Users\beyza\Desktop\C#\arrayList\obj\Debug\net7.0\refint\arrayList.dll
+C:\Users\beyza\Desktop\C#\arrayList\obj\Debug\net7.0\arrayList.pdb
+C:\Users\beyza\Desktop\C#\arrayList\obj\Debug\net7.0\arrayList.genruntimeconfig.cache
+C:\Users\beyza\Desktop\C#\arrayList\obj\Debug\net7.0\ref\arrayList.dll
